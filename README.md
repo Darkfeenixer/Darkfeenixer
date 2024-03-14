@@ -104,20 +104,20 @@
 
 2. Now Deploy
     <br>
-<a href='https://replit.com/github/naveeddogar/KING-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<a href='https://replit.com/github/naveeddogar/FEENIX-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 ---
 
 
-<h2 align="center"> Star This Repo If You like KING-MD🌟
+<h2 align="center"> Star This Repo If You like FEENIX-MD🌟
 </h2>
 
 #### Thanks To 
 
-1: Suhail Bro
+1: Mr Kasun Bro
 
-2: Zubair Bro
+2: Dark Sasiya Bro
 
-3: SamPandy Bro
+3: Cyber Saviya Bro
 
 #### NOTE: DON'T MODIFY THIS BOT FIRST INFORM THE OWNER
